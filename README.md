@@ -30,7 +30,7 @@
 1. Git clone this repo<br/>
 
 ```
-> git clone https://github.com/Animeselerakuu/BOTZV2.git
+> git clone https://github.com/ShinoaHiiraginime/shinoabot.git
 > cd BOTZV2
 > npm i
 ```
@@ -78,9 +78,10 @@
 - [`Loki Killers`]()
 - [`Ara-Ara`]()
 - [`All creator bot`]()
+- [`ShinoaHiiraginime`]()
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/AnimeSeleraku)
-- [`SOSMED`](https://instabio.cc/Rimuru)
+- [`SAWERIA`](https://saweria.co/ShinoaHiiragi)
+- [`SOSMED`](https://instabio.cc/boedzhanks)
 
