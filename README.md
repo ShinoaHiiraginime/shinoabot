@@ -1,4 +1,4 @@
-# ```BOTZ10 LAST```
+# ```Shinoa~Bot```
 
 <p align="center">
 <img src="https://github.com/Animeseleraku/BOTZV2/blob/master/image/Alphabot.jpg" alt="BOTZV2" width="128" height="128"/>
